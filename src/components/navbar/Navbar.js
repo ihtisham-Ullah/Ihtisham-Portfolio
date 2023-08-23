@@ -45,9 +45,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                  I am Ihtisham Ullah, an enthusiast MERN stack developer who loves to code. I am always looking for new challenges and am eager to learn new things. I am passionate about using my skills to create innovative and user-friendly applications.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
